@@ -24,7 +24,7 @@
     ],
     "location":"https://github.com/cfmitrah/jenkins_test/archive/master.zip",
     "name":"MitrahAPI",
-    "private":true,
+    "private":false,
     "projectURL":"",
     "repository":{
         "type":"git",
@@ -32,7 +32,7 @@
     },
     "scripts":{},
     "shortDescription":"A sweet package",
-    "slug":"mitrah-test-api-wrapper@Kavitha96",
+    "slug":"mitrah-test-api-wrapper",
     "testbox":{
         "bundles":"",
         "directory":"tests.specs",
