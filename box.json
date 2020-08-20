@@ -1,0 +1,28 @@
+{
+    "name":"Mitrah API Wrapper",
+    "version":"1.0.0",
+    "author":"mitrahsoft@gmail.com",
+    "location":"cfmitrah/jenkins_test#v1.0.0",
+    "homepage":"https://github.com/cfmitrah/jenkins_test",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/cfmitrah/jenkins_test"
+},
+    "bugs":"https://github.com/cfmitrah/jenkins_test/issues",
+    "slug":"mitrah-api-wrapper",
+    "shortDescription":"A template for building API clients in CFML",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"commandbox-modules",
+    "keywords":"api, template, commandbox",
+    "private":true,
+    "projectURL":"",
+    "contributors":[],
+    "dependencies":{},
+    "devDependencies":{},
+    "installPaths":{},
+    "scripts":{},
+    "ignore":[]
+}
